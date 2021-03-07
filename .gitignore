@@ -18,6 +18,7 @@
 !/[Aa]ssets/**/*.meta
 /[Aa]ssets/Medieval village/
 /[Aa]ssets/ADG_Textures/
+/[Aa]ssets/Samples/
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
