@@ -18,14 +18,16 @@
 !/[Aa]ssets/**/*.meta
 /[Aa]ssets/Medieval village/
 /[Aa]ssets/ADG_Textures/
-/[Aa]ssets/Samples/
+/[Aa]ssets/Free Island Collection/
+/[Aa]ssets/Conifers/
+
 # Nickolas Assets:
 /[Aa]ssets/Top Down/
+/[Aa]ssets/Samples/
 /[Aa]ssets/TopDownDevil/
 /[Aa]ssets/VW_ActionRPG_AssetPack/
 /[Aa]ssets/I_FG_Assets_Pack1.0/
-/[Aa]ssets/Free Island Collection/
-/[Aa]ssets/Conifers/
+
 /[Aa]ssets/ArmoredKnight/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
